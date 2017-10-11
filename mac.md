@@ -34,7 +34,7 @@ Primero clona un repositorio de Github que contiene el código que queremos usar
 ```
 
 ```bash
-  $ cd dofiles
+  $ cd dotfiles
 ```
 
 ```bash
