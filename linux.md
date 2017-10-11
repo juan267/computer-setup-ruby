@@ -42,7 +42,7 @@ Vamos a clonar un repositorio de Github que contiene el código que queremos usa
 ```
 
 ```bash
-  $ cd dofiles
+  $ cd dotfiles
 ```
 
 ```bash
